@@ -1,3 +1,4 @@
 # python_calc
-Add header file
-set gui windows
+we have created simple calculator using python
+we created main.py for testing view file
+model is bulid model and controller is controll the model
