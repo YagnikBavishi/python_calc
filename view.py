@@ -87,4 +87,4 @@ class GUI(QMainWindow):
                 return self.display.text()
         def clearDisplay(self):
                 """Clear the display."""
-                self.setDisplayText('')
+   		self.setDisplayText('')
